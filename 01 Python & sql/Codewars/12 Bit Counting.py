@@ -8,3 +8,6 @@ Example: The binary representation of 1234 is 10011010010, so the function shoul
 def count_bits(n):
     # Convert integer to binary string and count '1's
     return bin(n).count('1')
+
+
+# https://www.codewars.com/kata/526571aae218b8ee490006f4/solutions/python
